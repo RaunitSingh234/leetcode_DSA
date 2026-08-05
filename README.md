@@ -22,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0904-fruit-into-baskets](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
 | [0904-fruit-into-baskets](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Two Pointers
 |  |
 | ------- |
