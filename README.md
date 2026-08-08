@@ -37,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
 | [0904-fruit-into-baskets](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
