@@ -37,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
 | [0904-fruit-into-baskets](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0904-fruit-into-baskets) |
@@ -48,10 +49,12 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
