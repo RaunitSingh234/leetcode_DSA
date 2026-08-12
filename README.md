@@ -43,6 +43,7 @@
 | [0904-fruit-into-baskets](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0986-interval-list-intersections) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3169-count-days-without-meetings](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/3169-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
+| [3169-count-days-without-meetings](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/3169-count-days-without-meetings) |
 ## Quicksort
 |  |
 | ------- |
