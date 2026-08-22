@@ -40,6 +40,7 @@
 | [0056-merge-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
+| [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
 | [0904-fruit-into-baskets](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0986-interval-list-intersections) |
 | [1288-remove-covered-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1288-remove-covered-intervals) |
@@ -74,4 +75,24 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0986-interval-list-intersections) |
+## Binary Search
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
