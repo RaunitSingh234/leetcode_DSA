@@ -14,6 +14,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
 | [0986-interval-list-intersections](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0986-interval-list-intersections) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -100,4 +102,8 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
+## Greedy
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
