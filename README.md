@@ -45,6 +45,7 @@
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
 | [0904-fruit-into-baskets](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0986-interval-list-intersections) |
+| [1094-car-pooling](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3169-count-days-without-meetings](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/3169-count-days-without-meetings) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
+| [1094-car-pooling](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [3169-count-days-without-meetings](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/3169-count-days-without-meetings) |
 ## Quicksort
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
+| [1094-car-pooling](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1094-car-pooling) |
 ## Ordered Set
 |  |
 | ------- |
@@ -106,4 +109,12 @@
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
