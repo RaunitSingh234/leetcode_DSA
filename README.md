@@ -85,26 +85,31 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0732-my-calendar-iii) |
 ## Design
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0732-my-calendar-iii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0732-my-calendar-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1094-car-pooling) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0732-my-calendar-iii) |
 ## Greedy
 |  |
 | ------- |
