@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -83,12 +84,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0732-my-calendar-iii) |
 ## Design
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0732-my-calendar-iii) |
@@ -107,6 +110,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0732-my-calendar-iii) |
@@ -122,4 +126,12 @@
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1094-car-pooling) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
