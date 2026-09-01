@@ -134,4 +134,12 @@
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
