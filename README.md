@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0143-reorder-list) |
 | [0986-interval-list-intersections](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0986-interval-list-intersections) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
@@ -139,11 +140,17 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
