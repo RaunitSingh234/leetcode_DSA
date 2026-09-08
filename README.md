@@ -56,6 +56,7 @@
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0143-reorder-list) |
 | [0986-interval-list-intersections](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0986-interval-list-intersections) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
@@ -143,6 +144,7 @@
 | [0143-reorder-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0206-reverse-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
