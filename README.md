@@ -145,6 +145,7 @@
 | [0203-remove-linked-list-elements](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0725-split-linked-list-in-parts) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
