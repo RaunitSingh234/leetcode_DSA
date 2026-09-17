@@ -42,6 +42,7 @@
 | [0056-merge-intervals](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0075-sort-colors) |
+| [0407-trapping-rain-water-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0729-my-calendar-i](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0731-my-calendar-ii) |
 | [0904-fruit-into-baskets](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0904-fruit-into-baskets) |
@@ -123,6 +124,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1094-car-pooling](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/1094-car-pooling) |
 ## Simulation
 |  |
@@ -159,4 +161,12 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0143-reorder-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/RaunitSingh234/leetcode_DSA/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
