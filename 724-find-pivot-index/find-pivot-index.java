@@ -12,7 +12,7 @@ class Solution {
             }
 
             leftSum = leftSum + nums[i];
-        rightSum = rightSum - nums[i];
+            rightSum = rightSum - nums[i];
 
         }
         return -1;
